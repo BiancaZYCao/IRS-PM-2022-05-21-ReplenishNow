@@ -29,7 +29,7 @@ ReplenishNow is a recommendation engine designed for small-to-medium enterprises
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-[![ReplenishNow](http://img.youtube.com/vi/-jP6o8fehffsfsf/0.jpg)](https://youtu.be/-jP6o8fehffsfsf "ReplenishNow")
+[![ReplenishNow](http://img.youtube.com/vi/-jP6o8fehffsfsf/0.jpg)](https://www.youtube.com/watch?v=zP1nr8qFaNQ "ReplenishNow")
 
 Note:
 More reference video presentations [here](https://telescopeuser.wordpress.com/2018/03/31/master-of-technology-solution-know-how-video-index-2/ "video presentations")
