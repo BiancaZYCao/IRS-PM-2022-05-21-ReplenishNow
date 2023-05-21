@@ -62,11 +62,11 @@ library required:  functions-framework==3.* & ortools
 
 
 ---
-## SECTION 6 : PROJECT REPORT / PAPER
+## SECTION 6 : PROJECT REPORT
 
 `Refer to project report at Github Folder: ProjectReport`
 
-**Recommended Sections for Project Report / Paper:**
+**Recommended to read the chapters in Project Report:**
 - Executive Summary
 - Market Research
 - Project Definition
@@ -88,9 +88,11 @@ library required:  functions-framework==3.* & ortools
 * top78Items_aggr_weekly.csv: selected a pool of items from dataset download
 ### Result files
 * item_20109_moq.csv: result of the naive replenishment strategy applied on item 20109 
+* replenish_notification.csv: result of automated decision maker exported
 
 ### System Design
 * system_design.drawio: including all the diagrams
+
 ### more coming...
 
 ---
